@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ![](https://github.com/disfordottie/disfordottie/blob/main/icegif-530.gif)
 <!--
 **disfordottie/disfordottie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
